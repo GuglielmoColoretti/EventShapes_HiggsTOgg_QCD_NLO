@@ -2,12 +2,7 @@ List of files in eerad3-1.0:
 
 Makefile      : the makefile for eerad3, eerad3_combine, eerad3_dist
 
-
-3jme.f	      : two-loop three-parton matrix elements, from [34]
 aversub0.f    : subroutines for subtraction at NLO  
-aversub1.f    : subroutines for subtraction of double real radiation at NNLO
-aversub2.f    : subroutines for subtraction of one-loop real radiation at NNLO
-brem.f        : real radiation matrix elements
 ecuts.f       : jet algorithms and event shape definitions
 eerad3.f      : main program
 eerad3lib.f   : library with special functions and auxiliary routines
@@ -16,7 +11,6 @@ hplog.f       : one-dimensional harmonic polylogarithms, from [35]
 phaseee.f     : phase space routines
 sig.f         : parton-level cross sections and subtraction terms
 tdhpl.f       : two-dimensional harmonic polylogarithms, from [36]
-virt.f        : one-loop four-parton matrix elements, from [37]
 
 Auxiliary programs
 
