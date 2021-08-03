@@ -1,4 +1,4 @@
-# EventShapes_HiggsTOgg_NLO
+# EventShapes_HiggsTOgg_QCD_NLO
 Source code for EERAD3 to compute 3-jets event shapes NLO QCD corrections to Higgs decays into gluons. Reference: link_to_thesis.
 
 The documentation of the main program EERAD3 can be found at: https://arxiv.org/abs/1402.4140
@@ -9,7 +9,7 @@ To run the present version, namely to obtain NLO QCD corrections to event shape 
 
 #### Download the zip repository with all the files. Go to the folder where it is stored in your laptop. Open a terminal. Extract the files with the following lines:
 
-$ unzip EventShapes_HiggsTOgg_NLO-main.zip
+$ unzip EventShapes_HiggsTOgg_QCD_NLO-main.zip
 
 #### Run the make file to compile the code. You can change the files to be compiled. For the H->gg NLO QCD corrections these are sigHG.f and aversub0.f. The compiler can be changed as well but we recommend the latest version of gfortran with the option given in the make file. In the folder where the zip repository has been extracted, open a terminal and execute:
 
