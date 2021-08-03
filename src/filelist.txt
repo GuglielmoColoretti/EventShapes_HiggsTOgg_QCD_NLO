@@ -3,28 +3,26 @@ List of files:
 
 Makefile      : the makefile for eerad3, eerad3_combine, eerad3_dist
 
-aversub0.f    : subroutines for subtraction at NLO  
-sig.f         : parton-level cross sections and subtraction terms
-
 ecuts.f       : jet algorithms and event shape definitions
 phaseee.f     : phase space routines
 eerad3lib.f   : library with special functions and auxiliary routines
 histo.f       : histogram handling routines
-hplog.f       : one-dimensional harmonic polylogarithms, from [35]
-tdhpl.f       : two-dimensional harmonic polylogarithms, from [36]
+
+aversub0.f    : subroutines for subtraction at NLO  
+sig.f         : parton-level cross sections and subtraction terms
 
 eerad3.f      : main program
 
 
 
-Auxiliary programs
+Auxiliary programs:
 
 eerad3_combine.f : combination of results from statistically independent runs
 eerad3_dist.f    : construction of physical cross sections from coefficient functions produced with EERAD3
 
 
 
-Input files 
+Input files :
 
 eerad3.input 
 eerad3_combine.input
