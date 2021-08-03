@@ -24,5 +24,4 @@ $ ./eerad3
 
 
 
-
-* We are no expert of Windows. We recommend to install minGW, a Windows port of the GNU Compiler Collection (GCC).
+P.S. * We are no expert of Windows. We recommend to install minGW, a Windows port of the GNU Compiler Collection (GCC).
