@@ -9,7 +9,7 @@ OBJDIR = ./obj
 VPATH = $(SOURCEDIR)
 
 
-FFILES1   = eerad3.f histo.f ecuts.f eerad3lib.f phaseee.f tdhpl.f hplog.f sigHG.f aversub0H.f
+FFILES1   = eerad3.f histo.f ecuts.f eerad3lib.f phaseee.f sigHG.f aversub0H.f
 FFILES2   = eerad3_combine.f
 FFILES3   = eerad3_dist.f
 
