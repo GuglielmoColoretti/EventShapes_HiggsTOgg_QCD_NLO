@@ -10,10 +10,7 @@ Etx.y1d6.iZ4     ! NNLO icol=4
 Etx.y1d6.iZ5     ! NNLO icol=5
 Etx.y1d6.iZ6     ! NNLO icol=6
 EEt.091.1189     ! outfile
-c 0.1189d0         ! alphas(MZ)
 0.1154d0         ! alphas(MH) run from MZ
-c 91.1889d0        ! MZ
 125.18d0         ! MH
-c 91.1889d0        ! roots
 125.18d0         ! roots
 1.d0             ! mu/roots
