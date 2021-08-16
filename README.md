@@ -1,5 +1,5 @@
 # EventShapes_HiggsTOgg_QCD_NLO
-Source code for EERAD3 to compute 3-jets event shapes QCD corrections up to NLO to Higgs decays into gluons. Reference: link_to_thesis.
+Source code for EERAD3 to compute 3-jets event shapes QCD corrections up to NLO to Higgs decays into gluons. Reference: Event_Shapes_in_hadronic_Higgs_decays.pdf (file in this repository).
 
 The documentation of the main program EERAD3 can be found at: https://arxiv.org/abs/1402.4140. The full program is available at: https://eerad3.hepforge.org/ (as well as the NNLO QCD corrections to hadronic Z decays).
 
