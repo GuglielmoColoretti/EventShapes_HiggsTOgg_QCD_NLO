@@ -8,8 +8,8 @@ phaseee.f     : phase space routines
 eerad3lib.f   : library with special functions and auxiliary routines
 histo.f       : histogram handling routines
 
-aversub0.f    : subroutines for subtraction at NLO  
-sig.f         : parton-level cross sections and subtraction terms
+aversub0H.f   : antennas and subroutines for subtraction terms at NLO  
+sigHG.f       : matrix elements up to NLO and subtraction terms at NLO
 
 eerad3.f      : main program
 
