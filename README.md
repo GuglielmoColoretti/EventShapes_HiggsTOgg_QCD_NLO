@@ -13,7 +13,7 @@ To run the present version, namely to obtain NLO QCD corrections to event shape 
 
 $ unzip EventShapes_HiggsTOgg_QCD_NLO-main.zip
 
-#### Run the Makefile to compile the code. You can change the files to be compiled. For the H->gg NLO QCD corrections these are sigHG.f and aversub0.f (along with the ones needed to generate the phase space and perform the integration). The compiler can be changed as well but we recommend the latest version of gfortran with the option given in the Makefile. In the folder where the zip repository has been extracted, open a terminal and execute:
+#### Run the Makefile to compile the code. You can change the files to be compiled. For the H->gg NLO QCD corrections these are sigHG.f and aversub0.f (along with the ones needed to generate the phase space and perform the integration). The compiler can be changed as well but we recommend the latest version of gfortran with the option given in the Makefile (gfortran  -ffixed-form  -ffixed-line-length-none -fno-automatic -O). In the folder where the zip repository has been extracted, open a terminal and execute:
 
 $ make
 
