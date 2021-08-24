@@ -18,7 +18,7 @@ $ unzip EventShapes_HiggsTOgg_QCD_NLO-main.zip
 $ make
 
 
-#### Use the eerad3.input or the other input files to select the precision (number of points) and the event shape to be produced. You can change the statistical seed for the pseudo-random MonteCarlo generation (more information at https://arxiv.org/abs/1402.4140, section 4 - notice that the variable nshot5 in the input card can be set to zero, since five-partons channel integration is only required for NNLO corrections). An example of an input card for the case under study is provide in section 3.3 of Event_Shapes_in_hadronic_Higgs_decays.pdf (file in this repository). Run the program:
+#### Use the eerad3.input or the other input files to select the precision (number of points) and the event shape to be produced. You can change the statistical seed for the pseudo-random MonteCarlo generation (more information at https://arxiv.org/abs/1402.4140, section 4 - notice that the variable nshot5 in the input card can be set to zero, since five-partons channel integration is only required for NNLO corrections). An example of an input card for the case under study is provided by the eerad3.input file in the repository (computations of all event shapes with 10^(-7) points precision for all channels). Run the program:
 
 $ ./eerad3 
 
